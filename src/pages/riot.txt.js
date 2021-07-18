@@ -16,7 +16,7 @@ export default () => {
         <meta charSet="utf-8" />
         <title>Riot TXT</title>
         <html lang={lang || 'en'} />
-        <meta name="description" content="Page not found" />
+        <meta name="description" content="Riot TXT Code" />
       </Helmet>
       <section id="hero" className="jumbotron">
         <Container>
