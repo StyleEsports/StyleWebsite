@@ -24,7 +24,7 @@ export const aboutData = {
     'We host a positive, safe, and ever expanding community for you to make new friends and teammates, and hold Esports Discussions. We also host exclusive tournaments, with games that are streamed weekly by professional Shoutcasters and commentators.',
   paragraphThree:
     'We also provide connections for teams to find professional coaches and analysts to take their game to the next level.',
-  resume: '', // if no resume, the button will not show up
+  resume: 'data', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
